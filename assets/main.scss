@@ -1,0 +1,20 @@
+---
+---
+
+@import "minima";
+
+/* Remove Jekyll/Minima site chrome */
+.site-header,
+.site-title,
+.site-footer {
+  display: none;
+}
+
+/* Improve reading layout */
+.wrapper {
+  max-width: 760px;
+}
+
+.page-content {
+  padding-top: 2rem;
+}

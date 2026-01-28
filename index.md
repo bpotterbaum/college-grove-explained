@@ -1,4 +1,6 @@
-## Why Doesn’t College Grove Have Restaurants or Coffee Shops?
+---
+title: "Why Doesn’t College Grove Have Restaurants or Coffee Shops?"
+---
 
 It’s a question almost everyone who lives in—or visits—College Grove eventually asks. And it’s a fair one, especially given how close we are to Franklin, Nolensville, and Murfreesboro.
 
